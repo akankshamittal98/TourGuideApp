@@ -22,12 +22,13 @@
         android:layout_marginTop="123dp"
         android:text="TextView" />
 
-    <Button
-        android:id="@+id/button"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_alignParentBottom="true"
-        android:layout_centerHorizontal="true"
-        android:layout_marginBottom="151dp"
-        android:text="Button" />
+    <TextView
+        android:id="@+id/t3"
+        android:layout_width="247dp"
+        android:layout_height="73dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignStart="@+id/t1"
+        android:layout_marginTop="231dp"
+        android:text="TextView" />
+
 </RelativeLayout>
